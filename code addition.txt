@@ -1,0 +1,7 @@
+editing the email address by employee and admin
+
+-calculating leave days each time one applies leave
+
+-cancelling leave before it is approved, but cannot cancel once it is approved
+
+-add a third account for director, whose only action is to approve or not approve leaves approved by the manager
